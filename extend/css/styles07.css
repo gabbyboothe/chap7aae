@@ -1,7 +1,7 @@
 /*
-Author:
-Date:
-File Name: 
+Author:gabby boothe
+Date: 5-10-24
+File Name: entend
 */
 
 /* CSS Reset */
@@ -24,6 +24,25 @@ header {
 	color: #dfe7c4;
 	padding: 2%;
     text-align: center;
+}
+nav {
+    background-color: #666;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
 }
 
 /* Style rules for main content  */
